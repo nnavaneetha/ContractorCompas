@@ -1,0 +1,36 @@
+{
+
+	"url": [{
+			"environment": "https://contractor.compas.siemens-info.com/",
+			"defaultExt": ""
+		},
+		{
+			"environment": "https://www.compas.siemens-info.com/",
+			"defaultExt": "mCompas/"
+		},
+		{
+			"environment": "https://beta.compasquality.siemens-info.com/",
+			"defaultExt": "mCompas/"
+		},
+		{
+		
+			"environment": "https://q02.compasquality.siemens-info.com/",
+			"defaultExt": "mCompas_SQR/"
+		},
+		{
+			"environment": "https://d09.compasquality.siemens-info.com/",
+			"defaultExt": "COMPASAppStore/ConsultantContractor/"
+		},
+		{
+			"environment": "https://d07.compasquality.siemens-info.com/",
+			"defaultExt": "mCompas_SQR/"
+		}
+	],
+	"hotspotsEnable": true,
+	"useC3Models" : "true",
+	"useSandy": false,
+	"version": "18",
+	"majorversion":"4",
+	"minorversion":"2",
+	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/"
+}
