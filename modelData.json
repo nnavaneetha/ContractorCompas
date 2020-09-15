@@ -1,0 +1,92 @@
+{
+	"models": [
+		{
+			"modelName": "Busway Systems",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/busway_animation.fbx",
+			"hotspotUrl":""
+
+		},
+		{
+			"modelName": "Power Panels",
+			"version": "2",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/upb(Animation).fbx",
+			"hotspotUrl":""
+
+		},
+		{
+			"modelName": "Safety Switches",
+			"version": "2",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/wss(Animation).fbx",
+			"hotspotUrl":""
+
+		}, {
+			"modelName": "Load Centers",
+			"version": "3",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/lcwg(new).fbx",
+			"hotspotUrl":""
+
+		}, {
+			"modelName": "Medium-voltage gas-insulated switchgear",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/powermod1.fbx",
+			"hotspotUrl":""
+
+		}, {
+			"modelName": "Low-voltage motor control centers",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/model95.fbx",
+			"hotspotUrl":""
+
+		}, {
+			"modelName": "95+",
+			"version": "3",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/file5.fbx",
+			"hotspotUrl":""
+
+		}, {
+			"modelName": "Medium-voltage motor controllers",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Siemens%20Tiastar.fbx",
+			"hotspotUrl":""
+
+		}, {
+			"modelName": "Medium-voltage metal-clad switchgear",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Medium%20voltage%20metal%20clad%20switchgear.fbx",
+			"hotspotUrl":""
+
+		}, {
+			"modelName": "Switchboards",
+			"version": "6",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SwitchBoard.fbx",
+			"hotspotUrl":""
+
+		}, {
+			"modelName": "Distribution Switchboards",
+			"version": "5",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/SB3(Animation).fbx",
+			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json"
+
+		}, {
+			"modelName": "Commercial Multi-Metering Switchboards",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Commercial%20Multi-Metering%20Switchboards.fbx",
+			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/Commercial%20Multi-Metering%20Switchboards.json"
+
+		}, {
+			"modelName": "Transformers",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/transformer.fbx",
+			"hotspotUrl":""
+
+		},, {
+			"modelName": "testmodel",
+			"version": "1",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/testmodel.fbx",
+			"hotspotUrl":""
+
+		}
+	]
+
+}
