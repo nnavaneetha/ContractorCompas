@@ -1,0 +1,133 @@
+{
+	"models": [
+		{
+			"modelName": "Busway Systems",
+			"version": "5",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/busway_animation.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Power Panels",
+			"version": "12",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/UPB_tiltlabs.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Panel Board",
+			"version": "13",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/UPB_tiltlabs.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Safety Switches",
+			"version": "8",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/WSS_tiltlabs.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Load Centers",
+			"version": "6",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/LCWG_tiltlabs.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Metering",
+			"version": "5",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/powermod1.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		},{
+			"modelName": "Switchboards",
+			"version": "7",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/SwitchBoard.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Distribution Switchboards",
+			"version": "15",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/SB3_tiltlabs.fbx",
+			"hotspotUrl":"https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/DistributionSwitchboards.json",
+			"animations": []
+
+		}, {
+			"modelName": "Medium-voltage motor controllers",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Gas Insulated Switchgear",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Single Family Metering",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Talon Meter",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "BBKB32",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "BBKED32",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "US2_BBKVA52P3T",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "BBKNB32",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "US2_BBKGB32",
+			"version": "1",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "US2_BBKQR1",
+			"version": "1",
+			"url": "hhttps://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}
+
+	]
+
+}
