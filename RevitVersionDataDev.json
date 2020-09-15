@@ -1,0 +1,128 @@
+{
+	"models": [{
+		"fileName": "TYZSB_SWITCHBOARD",
+		"version": "8",
+		"hotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotSpot_TYZSB_SWITCHBOARD.json"
+
+	}, {
+		"fileName": "TYZSWITCHGEAR",
+		"version": "2",
+		"hotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotSpot_TYZSB_SWITCHBOARD.json"
+
+	}, {
+		"fileName": "Default",
+		"version": "3",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "C1",
+		"version": "5",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "P1",
+		"version": "5",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "C2",
+		"version": "4",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "P2",
+		"version": "4",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "P3",
+		"version": "4",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "P4",
+		"version": "4",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "P5",
+		"version": "4",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "MainHCP",
+		"version": "4",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "MainHCP3",
+		"version": "4",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "HCP",
+		"version": "3",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "Provision",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZSB_SECTION",
+		"version": "2",
+		"hotspotUrl": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/HotSpot_TYZSB_SWITCHBOARD.json"
+
+	}, {
+		"fileName": "TYZLV_SECTION",
+		"version": "2",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZLV_COMPT",
+		"version": "5",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZSB_FDR_HCP",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZSB_VLMCCB",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZSB_UNT_SPCE",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZSB_PNL_AREA",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "TYZPB_INTERIOR",
+		"version": "3",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "defaultBreaker",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}, {
+		"fileName": "BUSWAY_SWITCH_BOARD",
+		"version": "3",
+		"hotspotUrl": ""
+
+	},{
+		"fileName": "POWERMOD",
+		"version": "1",
+		"hotspotUrl": ""
+
+	}]
+}
