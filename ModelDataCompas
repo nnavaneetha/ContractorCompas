@@ -1,0 +1,13 @@
+{
+	"models": [
+  {
+			"modelName": "Power Panels",
+			"version": "12",
+			"url": "https://www.compas.siemens-info.com/c3services/doc/d5/20181/2217745/UPB_tiltlabs.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}
+    ]
+
+}
